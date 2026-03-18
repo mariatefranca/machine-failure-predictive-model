@@ -1,4 +1,4 @@
-# mtf-data-science-lighthouse
+# machine-failure-predictive-model
 
 The main objective of this project is to identify which machines will potentially fail and predict their failure type based on data extracted through sensors during the manufacturing process.
 
